@@ -8,6 +8,8 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Music Player.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application/Song.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
